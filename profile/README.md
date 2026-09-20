@@ -10,7 +10,7 @@ Purity, Source-Built & Agentic Linux
 
 ## About
 
-**Kan Linux** is a minimalist and pure modern Wayland desktop distribution\. The name **Kan** derives from *Instructions for Practical Living* by Wang Yangming, representing the philosophy of breaking through technical obscurations and returning to the system’s original simplicity\.
+**Kan Linux** is a minimalist and pure modern Wayland desktop distribution\. The name **Kan** derives from *Instructions for Practical Living* by [Wang Yangming](https://en.wikipedia.org/wiki/Wang_Yangming), representing the philosophy of breaking through technical obscurations and returning to the system’s original simplicity\.
 
 This project thoroughly abandons the bloated legacy desktop stack including GTK, Cairo and Pango, eliminating decades of accumulated technical debt on traditional Linux desktops\. Based on lightweight musl libc \+ busybox foundation, it adopts a modern Qt \+ Hyprland Wayland architecture, keeping the system idle\-quiet and responsive on demand\.
 
@@ -72,7 +72,7 @@ If you reuse the code or materials from this project, **please retain attributio
 
 **Kan（勘）Linux** 是一款极简、纯净、现代化的 Wayland 桌面 Linux 发行版。
 
-名称取自王阳明《传习录》：**“此处能勘得破，方是简易透彻功夫。”**
+名称取自[王阳明](https://zh.wikipedia.org/zh-cn/%E7%8E%8B%E9%99%BD%E6%98%8E)《传习录》：**“此处能勘得破，方是简易透彻功夫。”**
 
 项目以「勘破遮蔽、去芜存真」为核心设计理念，彻底剥离传统 Linux 桌面老旧臃肿的 GTK 图形体系与历史技术债。以 musl \+ busybox 构建极致精简的底层基座，搭配 Qt \+ Hyprland 现代化 Wayland 桌面栈，实现系统**寂然不动，感而遂通**的运行状态，闲时沉静无冗余，响应交互通透高效。
 
