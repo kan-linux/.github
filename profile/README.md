@@ -1,4 +1,4 @@
-# Kan Linux
+# Kan-Linux
 
 Purity, Source-Built & Agentic Linux
 
