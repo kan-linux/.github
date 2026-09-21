@@ -1,7 +1,5 @@
 # Kan-Linux
 
-Purity, Source-Built & Agentic Linux
-
 *See through the delusions, return to simplicity*
 
 **勘破遮蔽，回归本真**
@@ -10,7 +8,7 @@ Purity, Source-Built & Agentic Linux
 
 ## About
 
-**Kan Linux** is a minimalist and pure modern Wayland desktop distribution\. The name **Kan** derives from *Instructions for Practical Living* by [Wang Yangming](https://en.wikipedia.org/wiki/Wang_Yangming), representing the philosophy of breaking through technical obscurations and returning to the system’s original simplicity\.
+**Kan-Linux** is a Pure, **Source‑Built**, **Truly Agent‑First** Linux distribution\. The name **Kan** derives from *Instructions for Practical Living* by [Wang Yangming](https://en.wikipedia.org/wiki/Wang_Yangming), representing the philosophy of breaking through technical obscurations and returning to the system’s original simplicity\.
 
 This project thoroughly abandons the bloated legacy desktop stack including GTK, Cairo and Pango, eliminating decades of accumulated technical debt on traditional Linux desktops\. Based on lightweight musl libc \+ busybox foundation, it adopts a modern Qt \+ Hyprland Wayland architecture, keeping the system idle\-quiet and responsive on demand\.
 
@@ -22,11 +20,36 @@ This project thoroughly abandons the bloated legacy desktop stack including GTK,
 
 - **Modernity** — Pure Wayland\-native desktop, drop outdated X11 stack
 
-- **Agent\-First \& Agent\-Friendly** — designed for AI agent autonomous operation, auto\-compilation, component deployment and intelligent troubleshooting
+- **Source-Built** — The entire OS and all components are built from source, enabling AI agents to intelligently build, deploy and repair the system autonomously
 
 - **llama.cpp-First** — Built-in native llama.cpp edge inference engine for local AI deployment
-  
-- **Source-Built** — The entire OS and all components are built from source, enabling AI agents to intelligently build, deploy and repair the system autonomously
+
+- **Agent\-First \& Agent\-Friendly** — designed for AI agent autonomous operation, auto\-compilation, component deployment and intelligent troubleshooting
+
+- **True Agent-First** — Most so-called "agentic-first" Linux distributions are essentially conventional systems (Ubuntu, Nix, Arch) with AI tools preinstalled.
+They retain traditional package managers (`deb`/`rpm`/`nix`/`pacman`), binary repositories and legacy system state logic.
+On these systems, **the agent is optional** — it is merely an assistant application, not a system necessity.
+
+--- 
+
+## Kan-Linux redefines the Agent-First paradigm fundamentally
+
+
+1. **No traditional package management**
+
+All userland components and applications are built strictly from source.No package database, no binary repository dependencies, no distro-specific packaging abstractions.Software lifecycle is reduced to primitive, automatable workflows:`source fetch → patch → audit → build → deploy`.
+
+2. **Agent is mandatory, not optional**
+
+Kan-Linux only provides a minimal, auditable base system:`Linux kernel + musl/glibc + BusyBox init + minimal Wayland desktop stack`. All upper-layer software extension, dependency resolution, ABI verification and deployment orchestration **depends on the agent**. The system is intentionally not designed for pure manual daily extension.
+
+3. **AI-native security audit pipeline**
+
+Different from distro-reliant security models (maintainer-maintained CVE patches & binary auditing), Kan-Linux embeds LLM-based source-level security audit(GLM-5.3 and others) as a mandatory gate before compilation. Security is shifted from "binary post-scanning" to **source pre-admission auditing**.
+
+4. **Deterministic, fully traceable system state**
+
+Every binary in the system can be traced back to exact source commit, patch set and build flags. No implicit upstream drift, no hidden distro patches, no opaque package-manager state.
 
 ---
 
@@ -34,7 +57,7 @@ This project thoroughly abandons the bloated legacy desktop stack including GTK,
 
 - [ggml-hexagon](https://github.com/kan-linux/ggml-hexagon/discussions/84):Original FastRPC-based ggml-hexagon, Alternative llama.cpp backend for Qualcomm Hexagon NPU (Android / WoS(Windows on Snapdragon) / Linux)
   
-- kan-linux: Built an Agent-First and Agent-Friendly modern Linux desktop from scratch， TBD
+- kan-linux: an Agent-First, Agent-Friendly modern Linux desktop built from scratch, planned for release 2026-10-1
 
 ---
 
@@ -82,13 +105,33 @@ If you reuse the code or materials from this project, **please retain attributio
 
 - **极简性** — 轻量化底层架构，无多余系统开销
 
-- **现代化** — 纯 Wayland 原生架构，彻底舍弃过时 X11 体系
+- **现代化** — 纯 Wayland 原生架构，彻底舍弃老旧 X11 体系
+
+- **源码构建** — 整套系统及所有组件均支持从源代码编译构建，适配 AI Agent 智能编译、自动部署与智能修复
+
+- **llama.cpp 优先** — 内置原生 llama.cpp 端侧推理引擎，原生支持本地 AI 部署与端侧智能计算
 
 - **Agent First \& Agent Friendly** — 面向智能代理设计，支持 AI Agent 自主编译部署、组件安装、系统自查与问题修复
 
-- **llama.cpp 优先** — 内置原生 llama.cpp 端侧推理引擎，原生支持本地 AI 部署与端侧智能计算
-  
-- **源码构建** — 整套系统及所有组件均支持从源代码编译构建，适配 AI Agent 智能编译、自动部署与智能修复
+
+- **真正的 Agent 优先** — 市面上绝大多数所谓「智能代理优先」系统，仅是在 Ubuntu、Nix、Arch 等传统发行版上预装 AI 工具。这类系统依然依赖传统包管理器（`deb`/`rpm`/`nix`/`pacman`）、二进制软件仓库与旧式系统状态逻辑。在这些系统中，**AI 代理只是可选附加工具**，仅是辅助应用，并非系统运行的必要核心。
+
+---
+
+## Kan-Linux 重新定义 Agent-First 范式
+
+1. **无传统包管理机制**
+所有用户态组件与应用均严格基于源码构建。无包管理数据库、无二进制仓库依赖、无发行版专属打包抽象。软件生命周期被简化为可由代理自动化的原生流程：`拉取源码 → 应用补丁 → 安全审计 → 编译构建 → 部署安装`。
+
+2. **代理为系统必需，而非附加功能**
+Kan-Linux 仅提供极简、可审计的系统基底：`Linux 内核 + musl/glibc + BusyBox 初始化系统 + 极简 Wayland 桌面栈`。
+所有上层软件扩展、依赖解析、ABI 一致性校验、部署编排工作**完全依赖 AI 代理执行**。系统设计初衷即**不适配纯人工日常维护与扩展**。
+
+3. **原生 AI 安全审计流水线**
+区别于传统发行版依赖维护团队跟进 CVE、二进制后置审计的安全模式，Kan-Linux 将大模型源码级安全审计（GLM-5.3 及同等级模型）设为编译前的强制准入关卡。将安全防护从「二进制后置扫描」升级为**源码前置准入审计**。
+
+4. **确定性、全链路可追溯系统状态**
+系统内所有二进制程序，均可精准追溯至对应源码提交、补丁集合与编译参数。不存在隐性上游版本漂移、无发行版隐藏补丁、无包管理器带来的不透明系统状态。
 
 ---
 
@@ -96,7 +139,7 @@ If you reuse the code or materials from this project, **please retain attributio
 
 - [ggml-hexagon](https://github.com/kan-linux/ggml-hexagon):Original FastRPC-based ggml-hexagon, Alternative llama.cpp backend for Qualcomm Hexagon NPU (Android / WoS(Windows on Snapdragon) / Linux)
   
-- kan-linux: 从源代码构建Agent优先&Agent友好的现代桌面Linux, 敬请期待
+- kan-linux：从源码逐层构建，Agent 优先、Agent 友好的现代 Linux 桌面版，计划 2026‑10‑01 发布
 
 ---
 
