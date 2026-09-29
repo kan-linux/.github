@@ -1,21 +1,11 @@
-# Kan-Linux
+## Overview
 
-*See through the delusions, return to simplicity*
+The kan-linux on Github develops and supports the kan-linux and related projects.
 
-**勘破遮蔽，回归本真**
+- [https://huggingface.co/kan-linux](https://huggingface.co/kan-linux)  - kan-linux at Hugging Face
 
----
-
-## Projects
+- [kan-linux](https://github.com/kan-linux/kan): an Agent-First, Agent-Friendly modern Linux desktop built from scratch
 
 - [ggml-hexagon](https://github.com/kan-linux/ggml-hexagon/discussions/84): Original FastRPC-based ggml-hexagon, Alternative llama.cpp backend for Qualcomm Hexagon NPU (Android / WoS(Windows on Snapdragon) / Linux)
   
-- [kan-linux](https://github.com/kan-linux/kan): an Agent-First, Agent-Friendly modern Linux desktop built from scratch
 
----
-
-## 项目
-
-- [ggml-hexagon](https://github.com/kan-linux/ggml-hexagon): Original FastRPC-based ggml-hexagon, Alternative llama.cpp backend for Qualcomm Hexagon NPU (Android / WoS(Windows on Snapdragon) / Linux)
-  
-- [kan-linux](https://github.com/kan-linux/kan)：从源码逐层构建，Agent 优先、Agent 友好的现代 Linux 桌面版
