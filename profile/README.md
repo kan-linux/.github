@@ -34,7 +34,7 @@ ggml-hexagon[<a href="https://github.com/kan-linux/ggml-hexagon/discussions/84" 
 
 
 
-ffmpeg[<a href="https://github.com/kan-linux/ffmpeg"         style="text-decoration:none;">ffmpeg</a>     <br><span style="font-size:10px;"> customized ffmpeg source tree of KanLinux</span>];
+ffmpeg[<a href="https://github.com/kan-linux/ffmpeg"         style="text-decoration:none;">FFmpeg</a>     <br><span style="font-size:10px;"> customized FFmpeg source tree of KanLinux</span>];
 
 
 ```
