@@ -14,11 +14,18 @@ graph TD;
 iso --> kan
 iso --> installer
 
+kan --> build
+kan --> system
+kan --> framework
+
+framework --> Hyprland
+
 kan --> kernel
-kan --> ggml-hexagon
-kan --> FFmpeg
-kan --> Hyprland
-kan --> qt
+kan --> external
+
+external --> ggml-hexagon
+external --> FFmpeg
+external --> qt
 
 
 qt --> qtbase
