@@ -16,7 +16,8 @@ iso --> installer
 
 kan --> kernel
 kan --> ggml-hexagon
-kan --> ffmpeg
+kan --> FFmpeg
+kan --> Hyprland
 kan --> qt
 
 
@@ -41,7 +42,10 @@ ggml-hexagon[<a href="https://github.com/kan-linux/ggml-hexagon/discussions/84" 
 
 
 
-ffmpeg[<a href="https://github.com/kan-linux/ffmpeg"         style="text-decoration:none;">FFmpeg</a>     <br><span style="font-size:10px;"> customized FFmpeg source tree of KanLinux</span>];
+FFmpeg[<a href="https://github.com/kan-linux/ffmpeg"         style="text-decoration:none;">FFmpeg</a>     <br><span style="font-size:10px;"> customized FFmpeg source tree of KanLinux</span>];
+
+
+Hyprland[<a href="https://github.com/kan-linux/Hyprland"         style="text-decoration:none;">Hyprland</a>     <br><span style="font-size:10px;"> Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks</span>];
 
 
 qtbase[<a href="https://github.com/kan-linux/qtbase"         style="text-decoration:none;">qtbase</a>     <br><span style="font-size:10px;"> Qt Base </span>];
