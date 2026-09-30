@@ -21,9 +21,10 @@ kan --> qt
 
 
 qt --> qtbase
-qt --> qtdeclarative
 qt --> qtwayland
+qt --> qtdeclarative
 
+qtdeclarative --> quickshell
 
 
 iso[<a href="https://github.com/kan-linux/iso"                       style="text-decoration:none;">iso</a>            <br><span style="font-size:10px;">KanLinux images & Live ISO</span>];
@@ -43,11 +44,17 @@ ggml-hexagon[<a href="https://github.com/kan-linux/ggml-hexagon/discussions/84" 
 ffmpeg[<a href="https://github.com/kan-linux/ffmpeg"         style="text-decoration:none;">FFmpeg</a>     <br><span style="font-size:10px;"> customized FFmpeg source tree of KanLinux</span>];
 
 
-qt-base[<a href="https://github.com/kan-linux/qtbase"         style="text-decoration:none;">qtbase</a>     <br><span style="font-size:10px;"> Qt Base </span>];
+qtbase[<a href="https://github.com/kan-linux/qtbase"         style="text-decoration:none;">qtbase</a>     <br><span style="font-size:10px;"> Qt Base </span>];
+
+
+
+qtwayland[<a href="https://github.com/kan-linux/qtwayland"         style="text-decoration:none;">qtwayland</a>     <br><span style="font-size:10px;"> A toolbox for making Qt based Wayland compositors </span>];
 
 qtdeclarative[<a href="https://github.com/kan-linux/qtdeclarative"         style="text-decoration:none;">qtdeclarative</a>     <br><span style="font-size:10px;"> Qt Declarative </span>];
 
-qtwayland[<a href="https://github.com/kan-linux/qtwayland"         style="text-decoration:none;">qtwayland</a>     <br><span style="font-size:10px;"> A toolbox for making Qt based Wayland compositors </span>];
+
+
+quickshell[<a href="https://github.com/kan-linux/quickshell"         style="text-decoration:none;">quickshell</a>     <br><span style="font-size:10px;"> Flexible toolkit for making desktop shells with QtQuick </span>];
 
 ```
 
