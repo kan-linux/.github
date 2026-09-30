@@ -35,17 +35,17 @@ installer[<a href="https://github.com/kan-linux/installer"         style="text-d
 
 
 
-kernel[<a href="https://github.com/kan-linux/kernel"         style="text-decoration:none;">kernel</a>     <br><span style="font-size:10px;"> customized Linux kernel source tree of KanLinux</span>];
+kernel[<a href="https://github.com/kan-linux/kernel"         style="text-decoration:none;">kernel</a>     <br><span style="font-size:10px;"> customized Linux kernel source tree for KanLinux</span>];
 
 
-ggml-hexagon[<a href="https://github.com/kan-linux/ggml-hexagon/discussions/84"         style="text-decoration:none;">ggml-hexagon</a>     <br><span style="font-size:10px;">Original FastRPC-based ggml-hexagon, Alternative llama.cpp backend for Qualcomm Hexagon NPU </span>];
+ggml-hexagon[<a href="https://github.com/kan-linux/ggml-hexagon/discussions/84"         style="text-decoration:none;">ggml-hexagon</a>     <br><span style="font-size:10px;"> customized llama.cpp for KanLinux</span>];
 
 
 
-FFmpeg[<a href="https://github.com/kan-linux/ffmpeg"         style="text-decoration:none;">FFmpeg</a>     <br><span style="font-size:10px;"> customized FFmpeg source tree of KanLinux</span>];
+FFmpeg[<a href="https://github.com/kan-linux/ffmpeg"         style="text-decoration:none;">FFmpeg</a>     <br><span style="font-size:10px;"> customized FFmpeg source tree for KanLinux</span>];
 
 
-Hyprland[<a href="https://github.com/kan-linux/Hyprland"         style="text-decoration:none;">Hyprland</a>     <br><span style="font-size:10px;"> Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks</span>];
+Hyprland[<a href="https://github.com/kan-linux/Hyprland"         style="text-decoration:none;">Hyprland</a>     <br><span style="font-size:10px;"> fork of upstream Hyprland </span>];
 
 
 qtbase[<a href="https://github.com/kan-linux/qtbase"         style="text-decoration:none;">qtbase</a>     <br><span style="font-size:10px;"> Qt Base </span>];
