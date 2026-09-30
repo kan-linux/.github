@@ -15,7 +15,9 @@ iso --> kan
 iso --> installer
 
 kan --> build
+kan --> toolchain
 kan --> system
+kan --> vendor
 kan --> framework
 
 framework --> Hyprland
