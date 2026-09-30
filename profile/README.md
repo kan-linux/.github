@@ -25,14 +25,14 @@ framework --> Hyprland
 kan --> kernel
 kan --> external
 
-external --> ggml-hexagon
+external --> llama.cpp
 external --> ff
 
 ff  --> FFmpeg
-ff  --> ffmpeg-deps
+ff  --> ffmpeg_deps
 
-ffmpeg-deps --> x264
-ffmpeg-deps --> x265
+ffmpeg_deps --> x264
+ffmpeg_deps --> x265
 
 
 external --> qt
@@ -55,7 +55,7 @@ installer[<a href="https://github.com/kan-linux/installer"         style="text-d
 kernel[<a href="https://github.com/kan-linux/kernel"         style="text-decoration:none;">kernel</a>     <br><span style="font-size:10px;"> customized Linux kernel source tree for KanLinux</span>];
 
 
-ggml-hexagon[<a href="https://github.com/kan-linux/ggml-hexagon/discussions/84"         style="text-decoration:none;">ggml-hexagon</a>     <br><span style="font-size:10px;"> customized llama.cpp for KanLinux</span>];
+llamam.cpp[<a href="https://github.com/kan-linux/ggml-hexagon/discussions/84"         style="text-decoration:none;">llama.cpp</a>     <br><span style="font-size:10px;"> customized llama.cpp for KanLinux</span>];
 
 
 
