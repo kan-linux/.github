@@ -24,7 +24,15 @@ kan --> kernel
 kan --> external
 
 external --> ggml-hexagon
-external --> FFmpeg
+external --> ff
+
+ff  --> FFmpeg
+ff  --> ffmpeg-deps
+
+ffmpeg-deps --> x264
+ffmpeg-deps --> x265
+
+
 external --> qt
 
 
@@ -51,8 +59,10 @@ ggml-hexagon[<a href="https://github.com/kan-linux/ggml-hexagon/discussions/84" 
 
 FFmpeg[<a href="https://github.com/kan-linux/ffmpeg"         style="text-decoration:none;">FFmpeg</a>     <br><span style="font-size:10px;"> customized FFmpeg source tree for KanLinux</span>];
 
+x264[<a href="https://github.com/kan-linux/x264"         style="text-decoration:none;">x264</a>     <br><span style="font-size:10px;"> x264 Git mirror </span>];
+x265[<a href="https://github.com/kan-linux/x265"         style="text-decoration:none;">x265</a>     <br><span style="font-size:10px;"> x265 Git mirror </span>];
 
-Hyprland[<a href="https://github.com/kan-linux/Hyprland"         style="text-decoration:none;">Hyprland</a>     <br><span style="font-size:10px;"> fork of upstream Hyprland </span>];
+Hyprland[<a href="https://github.com/kan-linux/Hyprland"         style="text-decoration:none;">Hyprland</a>     <br><span style="font-size:10px;"> Hyprland Git mirror </span>];
 
 
 qtbase[<a href="https://github.com/kan-linux/qtbase"         style="text-decoration:none;">qtbase</a>     <br><span style="font-size:10px;"> Qt Base </span>];
@@ -65,7 +75,7 @@ qtdeclarative[<a href="https://github.com/kan-linux/qtdeclarative"         style
 
 
 
-quickshell[<a href="https://github.com/kan-linux/quickshell"         style="text-decoration:none;">quickshell</a>     <br><span style="font-size:10px;"> Flexible toolkit for making desktop shells with QtQuick </span>];
+quickshell[<a href="https://github.com/kan-linux/quickshell"         style="text-decoration:none;">quickshell</a>     <br><span style="font-size:10px;"> QuickShell Git mirror</span>];
 
 ```
 
