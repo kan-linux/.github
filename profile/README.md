@@ -5,8 +5,8 @@ The kan-linux organization on Github develops and supports the kan-linux and rel
 ```mermaid
 
 graph TD;
-iso --> kan
-iso --> installer
+LiveISO --> kan
+LiveISO --> installer
 
 kan --> build
 kan --> toolchain
@@ -39,7 +39,7 @@ qt --> qtdeclarative
 qtdeclarative --> quickshell
 
 
-iso[<a href="https://github.com/kan-linux/iso"                       style="text-decoration:none;">iso</a>            <br><span style="font-size:10px;">KanLinux images & Live ISO</span>];
+LiveISO[<span style="font-size:20px;">LiveISO</span>];
 kan[<a href="https://github.com/kan-linux/kan"         style="text-decoration:none;">kan</a>     <br><span style="font-size:10px;">Monorepo of KanLinux</span>];
 
 installer[<a href="https://github.com/kan-linux/installer"         style="text-decoration:none;">installer</a>     <br><span style="font-size:10px;">Installer of KanLinux</span>];
