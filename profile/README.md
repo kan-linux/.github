@@ -1,5 +1,6 @@
 ## Overview
 
+The kan-linux organization on Github develops and supports the kan-linux and related projects.
 
 ```mermaid
 
@@ -73,4 +74,9 @@ qtdeclarative[<a href="https://github.com/kan-linux/qtdeclarative"         style
 quickshell[<a href="https://github.com/kan-linux/quickshell"         style="text-decoration:none;">quickshell</a>     <br><span style="font-size:10px;"> QuickShell Git mirror</span>];
 
 ```
+
+
+### News
+
+- `[2026 Oct 01]` [Kan-Linux v0.2.6 released](https://github.com/kan-linux/iso/releases/tag/v0.2.6)
 
