@@ -78,5 +78,5 @@ quickshell[<a href="https://github.com/kan-linux/quickshell"         style="text
 
 ### News
 
-- `[2026 Oct 01]` [Kan-Linux v0.2.6 released](https://github.com/kan-linux/iso/releases/tag/v0.2.6)
+- `[2026 Oct 01]` [Kan-Linux v0.2.6 released](https://github.com/kan-linux/kan/releases/tag/v0.2.6)
 
