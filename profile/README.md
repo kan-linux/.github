@@ -18,9 +18,11 @@ kan --> external
 
 frameworks --> gtk4
 frameworks --> qt
-frameworks --> wayland
+frameworks --> mesa
 frameworks --> ffmpeg
 frameworks --> llama.cpp
+
+mesa --> wayland
 
 wayland   --> Hyprland
 wayland   --> quickshell
