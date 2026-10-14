@@ -71,7 +71,7 @@ Hyprland[<a href="https://github.com/kan-linux/Hyprland"         style="text-dec
 
 omarchy_desktop_shell[<a href="https://github.com/kan-linux/omarchy"         style="text-decoration:none;">Omarchy-desktop-shell</a>    </span>];
 
-strata[<a href="https://github.com/kan-linux/strata"         style="text-decoration:none;">FileManager</a>    </span>];
+strata[<a href="https://github.com/kan-linux/strata"         style="text-decoration:none;">strata</a> <br><span style="font-size:10px;"> File Manager </span>];
 
 qtbase[<a href="https://github.com/kan-linux/qtbase"         style="text-decoration:none;">qtbase</a>     <br><span style="font-size:10px;"> Qt Base </span>];
 
