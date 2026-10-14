@@ -20,7 +20,7 @@ frameworks --> wayland
 wayland   --> Hyprland
 wayland   --> quickshell
 
-framework --> ffmepg
+frameworks --> ffmepg
 
 ffmpeg  --> src
 ffmpeg  --> ffmpeg_deps
