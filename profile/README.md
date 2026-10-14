@@ -44,6 +44,7 @@ qt --> qtdeclarative
 apps --> wireshark
 apps --> gimp
 apps --> strata
+apps --> firefox
 
 LiveISO[<span style="font-size:20px;">LiveISO</span>];
 kan[<a href="https://github.com/kan-linux/kan"         style="text-decoration:none;">kan</a>     <br><span style="font-size:10px;">Monorepo of KanLinux</span>];
