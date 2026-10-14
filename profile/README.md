@@ -15,6 +15,7 @@ kan --> vendor
 kan --> frameworks
 
 frameworks --> gtk4
+frameworks --> qt
 frameworks --> wayland
 frameworks --> ffmpeg
 
@@ -33,7 +34,6 @@ kan --> external
 external --> llama.cpp
 external --> shell
 external --> apps
-external --> qt
 
 shell --> omarchy_desktop_shell
 
