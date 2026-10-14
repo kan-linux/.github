@@ -18,6 +18,7 @@ frameworks --> gtk4
 frameworks --> qt
 frameworks --> wayland
 frameworks --> ffmpeg
+frameworks --> llama.cpp
 
 wayland   --> Hyprland
 wayland   --> quickshell
@@ -31,7 +32,6 @@ ffmpeg_deps --> x265
 kan --> kernel
 kan --> external
 
-external --> llama.cpp
 external --> shell
 external --> apps
 
