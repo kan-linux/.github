@@ -12,32 +12,39 @@ kan --> build
 kan --> toolchain
 kan --> system
 kan --> vendor
-kan --> framework
+kan --> frameworks
 
-framework --> Hyprland
+frameworks --> gtk4
+frameworks --> wayland
+
+wayland   --> Hyprland
+wayland   --> quickshell
+
+framework --> ffmepg
+
+ffmpeg  --> src
+ffmpeg  --> ffmpeg_deps
+
+ffmpeg_deps --> x264
+ffmpeg_deps --> x265
 
 kan --> kernel
 kan --> external
 
 external --> llama.cpp
-external --> ff
-
-ff  --> FFmpeg
-ff  --> ffmpeg_deps
-
-ffmpeg_deps --> x264
-ffmpeg_deps --> x265
-
-
+external --> shell
+external --> apps
 external --> qt
 
+shell --> omarchy desktop shell
 
 qt --> qtbase
 qt --> qtwayland
 qt --> qtdeclarative
 
-qtdeclarative --> quickshell
-
+apps --> wireshark
+apps --> gimp
+apps --> strata
 
 LiveISO[<span style="font-size:20px;">LiveISO</span>];
 kan[<a href="https://github.com/kan-linux/kan"         style="text-decoration:none;">kan</a>     <br><span style="font-size:10px;">Monorepo of KanLinux</span>];
