@@ -16,11 +16,11 @@ kan --> frameworks
 kan --> kernel
 kan --> external
 
-frameworks --> gtk4
-frameworks --> qt
 frameworks --> mesa
 frameworks --> ffmpeg
 frameworks --> llama.cpp
+frameworks --> gtk4
+frameworks --> qt
 
 mesa --> wayland
 
