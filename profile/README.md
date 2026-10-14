@@ -16,7 +16,7 @@ kan --> frameworks
 
 frameworks --> gtk4
 frameworks --> wayland
-frameworks --> ffmepg
+frameworks --> ffmpeg
 
 wayland   --> Hyprland
 wayland   --> quickshell
