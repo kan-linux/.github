@@ -16,11 +16,10 @@ kan --> frameworks
 
 frameworks --> gtk4
 frameworks --> wayland
+frameworks --> ffmepg
 
 wayland   --> Hyprland
 wayland   --> quickshell
-
-frameworks --> ffmepg
 
 ffmpeg  --> src
 ffmpeg  --> ffmpeg_deps
