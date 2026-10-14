@@ -36,7 +36,7 @@ external --> shell
 external --> apps
 external --> qt
 
-shell --> omarchy desktop shell
+shell --> omarchy_desktop_shell
 
 qt --> qtbase
 qt --> qtwayland
