@@ -13,6 +13,8 @@ kan --> toolchain
 kan --> system
 kan --> vendor
 kan --> frameworks
+kan --> kernel
+kan --> external
 
 frameworks --> gtk4
 frameworks --> qt
@@ -29,8 +31,7 @@ ffmpeg  --> ffmpeg_deps
 ffmpeg_deps --> x264
 ffmpeg_deps --> x265
 
-kan --> kernel
-kan --> external
+llama.cpp --> agents
 
 external --> shell
 external --> apps
