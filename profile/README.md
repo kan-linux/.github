@@ -61,6 +61,7 @@ llama.cpp[<a href="https://github.com/kan-linux/ggml-hexagon/discussions/84"    
 
 
 ffmpeg_src[<a href="https://github.com/kan-linux/ffmpeg"         style="text-decoration:none;">src</a>     <br><span style="font-size:10px;"> customized FFmpeg source tree for KanLinux</span>];
+ffmpeg_deps[<a href="https://github.com/kan-linux/ffmpeg"         style="text-decoration:none;">deps</a>     <br><span style="font-size:10px;"> FFmpeg deps</span>];
 
 x264[<a href="https://github.com/kan-linux/x264"         style="text-decoration:none;">x264</a>     <br><span style="font-size:10px;"> x264 Git mirror </span>];
 x265[<a href="https://github.com/kan-linux/x265"         style="text-decoration:none;">x265</a>     <br><span style="font-size:10px;"> x265 Git mirror </span>];
