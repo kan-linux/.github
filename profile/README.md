@@ -54,7 +54,7 @@ kan[<a href="https://github.com/kan-linux/kan"         style="text-decoration:no
 
 installer[<a href="https://github.com/kan-linux/installer"         style="text-decoration:none;">installer</a>     <br><span style="font-size:10px;">Installer of KanLinux</span>];
 
-kernel[<a href="https://github.com/kan-linux/kernel"         style="text-decoration:none;">kernel</a>     <br><span style="font-size:10px;"> Linux kernel source tree for Kan-Linux</span>];
+kernel[<a href="https://github.com/kan-linux/kernel"         style="text-decoration:none;">kernel</a> ];
 
 
 llama.cpp[<a href="https://github.com/kan-linux/ggml-hexagon/discussions/84"         style="text-decoration:none;">llama.cpp</a>     <br><span style="font-size:10px;"> customized llama.cpp for Kan-Linux</span>];
