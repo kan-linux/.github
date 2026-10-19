@@ -73,11 +73,7 @@ omarchy_desktop_shell[<a href="https://github.com/kan-linux/omarchy"         sty
 
 strata[<a href="https://github.com/kan-linux/strata"         style="text-decoration:none;">strata</a> <br><span style="font-size:10px;"> File Manager </span>];
 
-qtbase[<a href="https://github.com/kan-linux/qtbase"         style="text-decoration:none;">qtbase</a>     <br><span style="font-size:10px;"> Qt Base </span>];
 
-qtwayland[<a href="https://github.com/kan-linux/qtwayland"         style="text-decoration:none;">qtwayland</a>     <br><span style="font-size:10px;"> A toolbox for making Qt based Wayland compositors </span>];
-
-qtdeclarative[<a href="https://github.com/kan-linux/qtdeclarative"         style="text-decoration:none;">qtdeclarative</a>     <br><span style="font-size:10px;"> Qt Declarative </span>];
 
 quickshell[<a href="https://github.com/kan-linux/quickshell"         style="text-decoration:none;">quickshell</a>     <br><span style="font-size:10px;"> QuickShell Git mirror</span>];
 
