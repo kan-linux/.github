@@ -60,12 +60,6 @@ kernel[<a href="https://github.com/kan-linux/kernel"         style="text-decorat
 llama.cpp[<a href="https://github.com/kan-linux/ggml-hexagon/discussions/84"         style="text-decoration:none;">llama.cpp</a>     <br><span style="font-size:10px;"> customized llama.cpp for Kan-Linux</span>];
 
 
-
-ffmpeg_src[<a href="https://github.com/kan-linux/ffmpeg"         style="text-decoration:none;">src</a>     <br><span style="font-size:10px;"> FFmpeg source</span>];
-ffmpeg_deps[<a href="https://github.com/kan-linux/ffmpeg"         style="text-decoration:none;">deps</a>     <br><span style="font-size:10px;"> FFmpeg deps</span>];
-
-
-
 Hyprland[<a href="https://github.com/kan-linux/Hyprland"         style="text-decoration:none;">Hyprland</a>    </span>];
 
 omarchy_desktop_shell[<a href="https://github.com/kan-linux/omarchy"         style="text-decoration:none;">Omarchy-desktop-shell</a>    </span>];
