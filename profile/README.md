@@ -65,6 +65,8 @@ Hyprland[<a href="https://github.com/kan-linux/Hyprland"         style="text-dec
 
 omarchy_desktop_shell[<a href="https://github.com/kan-linux/omarchy"         style="text-decoration:none;">Omarchy-desktop-shell</a>    </span>];
 
+noctalia[<a href="https://github.com/kan-linux/noctalia"         style="text-decoration:none;">noctalia</a>    </span>];
+
 strata[<a href="https://github.com/kan-linux/strata"         style="text-decoration:none;">strata</a> <br><span style="font-size:10px;"> File Manager </span>];
 
 
