@@ -39,6 +39,7 @@ external --> shell
 external --> apps
 
 shell --> omarchy_desktop_shell
+shell --> noctalia
 
 qt --> qtbase
 qt --> qtwayland
