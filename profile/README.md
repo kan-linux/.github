@@ -20,7 +20,7 @@ frameworks --> mesa
 frameworks --> ffmpeg
 frameworks --> llama.cpp
 frameworks --> gtk4
-frameworks --> qt
+frameworks --> qt6
 
 mesa --> wayland
 
@@ -30,8 +30,6 @@ wayland   --> quickshell
 ffmpeg  --> ffmpeg_src
 ffmpeg  --> ffmpeg_deps
 
-ffmpeg_deps --> x264
-ffmpeg_deps --> x265
 
 llama.cpp --> agents
 
@@ -41,9 +39,6 @@ external --> apps
 shell --> omarchy_desktop_shell
 shell --> noctalia
 
-qt --> qtbase
-qt --> qtwayland
-qt --> qtdeclarative
 
 apps --> strata
 apps --> firefox
