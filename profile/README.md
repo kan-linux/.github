@@ -72,6 +72,7 @@ quickshell[<a href="https://github.com/kan-linux/quickshell"         style="text
 
 
 ### News
+- `[2026 Oct 31]` [Kan-Linux v0.3.0 released](https://github.com/kan-linux/kan/releases/tag/v0.3.0)
 - `[2026 Oct 24]` [Kan-Linux v0.2.9 released](https://github.com/kan-linux/kan/releases/tag/v0.2.9)
 - `[2026 Oct 17]` [Kan-Linux v0.2.8 released](https://github.com/kan-linux/kan/releases/tag/v0.2.8)
 - `[2026 Oct 10]` [Kan-Linux v0.2.7 released](https://github.com/kan-linux/kan/releases/tag/v0.2.7)
