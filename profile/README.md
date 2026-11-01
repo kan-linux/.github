@@ -69,7 +69,8 @@ strata[<a href="https://github.com/kan-linux/strata"         style="text-decorat
 quickshell[<a href="https://github.com/kan-linux/quickshell"         style="text-decoration:none;">quickshell</a>     <br><span style="font-size:10px;"> QuickShell Git mirror</span>];
 
 ```
-
+We have benefited from the open-source community, and we wish to contribute back to it. 
+A full list of our contributions to the open-source community can be found in https://github.com/kan-linux/kan/discussions/7
 
 ### News
 - `[2026 Oct 31]` [Kan-Linux v0.3.0 released](https://github.com/kan-linux/kan/releases/tag/v0.3.0)
