@@ -73,6 +73,7 @@ We have benefited from the open-source community, and we wish to contribute back
 A full list of our contributions to the open-source community can be found in https://github.com/kan-linux/kan/discussions/7
 
 ### News
+- `[2026 Nov 07]` [Kan-Linux v0.3.1 released](https://github.com/kan-linux/kan/releases/tag/v0.3.1)
 - `[2026 Oct 31]` [Kan-Linux v0.3.0 released](https://github.com/kan-linux/kan/releases/tag/v0.3.0)
 - `[2026 Oct 24]` [Kan-Linux v0.2.9 released](https://github.com/kan-linux/kan/releases/tag/v0.2.9)
 - `[2026 Oct 17]` [Kan-Linux v0.2.8 released](https://github.com/kan-linux/kan/releases/tag/v0.2.8)
