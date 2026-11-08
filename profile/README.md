@@ -1,5 +1,7 @@
 ## Overview
 
+The main goal of Kan-Linux is to build a concise, secure and Agent-first Linux distro at the edge --- locally and in the cloud. The goal of security is not to build an unbreakable Linux distro, but to minimize TCB/attack surface and maximize SBOM/supply-chain security. 
+
 The kan-linux organization on Github develops and supports the kan-linux and related projects.
 
 ```mermaid
@@ -69,8 +71,7 @@ strata[<a href="https://github.com/kan-linux/strata"         style="text-decorat
 quickshell[<a href="https://github.com/kan-linux/quickshell"         style="text-decoration:none;">quickshell</a>     <br><span style="font-size:10px;"> QuickShell Git mirror</span>];
 
 ```
-We have benefited from the open-source community, and we wish to contribute back to it. 
-A full list of our contributions to the open-source community can be found in https://github.com/kan-linux/kan/discussions/7
+
 
 ### News
 - `[2026 Nov 07]` [Kan-Linux v0.3.1 released](https://github.com/kan-linux/kan/releases/tag/v0.3.1)
