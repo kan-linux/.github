@@ -80,3 +80,6 @@ A full list of our contributions to the open-source community can be found in ht
 - `[2026 Oct 10]` [Kan-Linux v0.2.7 released](https://github.com/kan-linux/kan/releases/tag/v0.2.7)
 - `[2026 Oct 01]` [Kan-Linux v0.2.6 released](https://github.com/kan-linux/kan/releases/tag/v0.2.6)
 
+## Wiki
+
+https://github.com/kan-linux/kan/wiki
