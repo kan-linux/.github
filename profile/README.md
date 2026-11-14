@@ -74,6 +74,7 @@ quickshell[<a href="https://github.com/kan-linux/quickshell"         style="text
 
 
 ### News
+- `[2026 Nov 14]` [Kan-Linux v0.3.2 released](https://github.com/kan-linux/kan/releases/tag/v0.3.2)
 - `[2026 Nov 09]`Kan-Linux achieved full self-hosting for the first time at 15:20 (UTC+0800) on Nov 09, 2026 
 - `[2026 Nov 07]` [Kan-Linux v0.3.1 released](https://github.com/kan-linux/kan/releases/tag/v0.3.1)
 - `[2026 Oct 31]` [Kan-Linux v0.3.0 released](https://github.com/kan-linux/kan/releases/tag/v0.3.0)
