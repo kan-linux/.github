@@ -74,14 +74,14 @@ quickshell[<a href="https://github.com/kan-linux/quickshell"         style="text
 
 
 ### News
-- `[2026 Nov 14]` [Kan-Linux v0.3.2 released](https://github.com/kan-linux/kan/releases/tag/v0.3.2)
+- `[2026 Nov 14]` [Kan-Linux v0.3.2 released](https://github.com/kan-linux/kan/releases/tag/v0.3.2) (milestone version)
 - `[2026 Nov 09]`Kan-Linux achieved full self-hosting for the first time at 15:20 (UTC+0800) on Nov 09, 2026 
-- `[2026 Nov 07]` [Kan-Linux v0.3.1 released](https://github.com/kan-linux/kan/releases/tag/v0.3.1)
-- `[2026 Oct 31]` [Kan-Linux v0.3.0 released](https://github.com/kan-linux/kan/releases/tag/v0.3.0)
-- `[2026 Oct 24]` [Kan-Linux v0.2.9 released](https://github.com/kan-linux/kan/releases/tag/v0.2.9)
-- `[2026 Oct 17]` [Kan-Linux v0.2.8 released](https://github.com/kan-linux/kan/releases/tag/v0.2.8)
-- `[2026 Oct 10]` [Kan-Linux v0.2.7 released](https://github.com/kan-linux/kan/releases/tag/v0.2.7)
-- `[2026 Oct 01]` [Kan-Linux v0.2.6 released](https://github.com/kan-linux/kan/releases/tag/v0.2.6)
+- `[2026 Nov 07]` [Kan-Linux v0.3.1 released](https://github.com/kan-linux/kan/releases/tag/v0.3.1) (weekly version)
+- `[2026 Oct 31]` [Kan-Linux v0.3.0 released](https://github.com/kan-linux/kan/releases/tag/v0.3.0) (weekly version)
+- `[2026 Oct 24]` [Kan-Linux v0.2.9 released](https://github.com/kan-linux/kan/releases/tag/v0.2.9) (weekly version)
+- `[2026 Oct 17]` [Kan-Linux v0.2.8 released](https://github.com/kan-linux/kan/releases/tag/v0.2.8) (weekly version)
+- `[2026 Oct 10]` [Kan-Linux v0.2.7 released](https://github.com/kan-linux/kan/releases/tag/v0.2.7) (weekly version)
+- `[2026 Oct 01]` [Kan-Linux v0.2.6 released](https://github.com/kan-linux/kan/releases/tag/v0.2.6) (weekly version)
 
 ## Documentation
 
