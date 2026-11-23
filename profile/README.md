@@ -87,3 +87,7 @@ quickshell[<a href="https://github.com/kan-linux/quickshell"         style="text
 ## Documentation
 
 https://kan-linux.org/docs.html
+
+## Quick Start
+
+https://github.com/kan-linux/kan/discussions/42
