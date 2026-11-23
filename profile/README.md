@@ -88,4 +88,4 @@ quickshell[<a href="https://github.com/kan-linux/quickshell"         style="text
 
 ## Quick Start
 
-https://github.com/kan-linux/kan/discussions/42
+https://github.com/kan-linux/kan/discussions/43
